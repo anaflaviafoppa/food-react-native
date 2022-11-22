@@ -32,7 +32,7 @@
     "babel-preset-expo": "~8.1.0",
     "babel-preset-react-native": "^4.0.1",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "private": true
 }
